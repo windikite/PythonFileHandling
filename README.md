@@ -1,0 +1,1 @@
+My 13th assignment! The lesson was clear and I already had a bit of experience generating files with my webscraper, so this was a nice formal intro to what you can do with files, much of which I did not know. I'm definitely excited to try doing more in the future with file handling. 
